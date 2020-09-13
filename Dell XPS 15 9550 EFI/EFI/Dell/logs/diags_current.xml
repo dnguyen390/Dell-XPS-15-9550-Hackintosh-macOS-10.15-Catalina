@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>44</LogNumber>
+    <LogTimeStamp>02/25/2119 03:52:03</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_F2</ReturnCode>
+      <ePSAFullVersion>4304.07</ePSAFullVersion>
+      <ePSAInvocationCount>1</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>POWER_SUPPLY</ErrorCategory>
+      <ErrorMessage><![CDATA[Alert! You have attached an undersized 60W power adapter to your system,
+which is less than the recommended 130W power adapter. To continue operating
+at peak performance, your system may also draw power from the battery. The
+battery charges only when the power provided by the adapter is greater than the
+needs of your system. Use a Dell 130W (or greater) power adapter to enable
+charging during peak system performance.
+]]></ErrorMessage>
+      <Flags>DISABLE_IN_SETUP</Flags>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
