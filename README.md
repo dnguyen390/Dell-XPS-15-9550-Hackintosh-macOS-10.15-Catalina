@@ -44,7 +44,7 @@ Battery life is about 5-8% worse on macOS compared to Windows 10. However, I am 
 - [x] Keyboard Shortcuts (Volume, Brightness, Play/Pause, Backlight, Print)
 - [x] HDMI Port (4k@30Hz hot pluggable)
 - [x] USB Type C Port (supports charging at 60w using Apple 87w USB C Power Adapter)
-- [x] Thunderbolt 3 Devices (Tested with a Razer Core X, AMD RX 480 8GB)
+- [x] Thunderbolt 3 Devices (Tested with a Sonnet Breakaway Box Developer Edition, AMD RX 580 8GB)
 - [x] Headphone Jack
 
 # What Doesn't Work :(
